@@ -6,7 +6,7 @@
   
 ## 2. What are some strategies to tailor your content to different audience types?
     ->   By adjusting language and tone to match audience preference like formal language for professionals and informal language for young audience.
-    -> Understanding your audience like putting yourself as the speaker in your audience's shoes and cosider thier perspective.
+    -> Understanding your audience like putting yourself as the speaker in your audience's shoes and cosider thier perspective. 
     -> Consider the level of technical knowledge your audience has like experts and regular folks.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
